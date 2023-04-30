@@ -1,0 +1,12 @@
+C:\Users\Emad\Desktop\my pc\FCIS\third year\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\Emad\Desktop\my pc\FCIS\third year\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\Emad\Desktop\my pc\FCIS\third year\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Emad\Desktop\my pc\FCIS\third year\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Emad\Desktop\my pc\FCIS\third year\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\Emad\Desktop\my pc\FCIS\third year\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+F:\Uni\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\Uni\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\Uni\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+F:\Uni\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\Uni\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\Uni\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
